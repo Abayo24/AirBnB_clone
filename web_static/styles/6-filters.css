@@ -64,8 +64,8 @@ h4 {
     top: 100%;
     left: -68px;
     border: 1px solid #DDDDDD;
+    margin-top: 0;
     border-radius: 4px;
-    margin: 0;
     padding: 34px;
     list-style: none;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
@@ -75,6 +75,4 @@ h4 {
 
 .locations:hover .popover, .amenities:hover .popover {
     display: block;
-    z-index: 2;
-    
 }
